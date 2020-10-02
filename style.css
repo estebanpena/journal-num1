@@ -1,0 +1,21 @@
+/*selector {
+	property: value;
+}*/
+body {
+	background-image: url(yup.jpg);
+	background-size: cover;
+}
+
+.header {
+	font-size: 700%
+	font-weight: bold;
+	font-family: 'Ubuntu Mono', monospace;
+}
+
+.webtext {
+	line-height: 17px;
+	font-style: italic;
+	font-size: 120%;
+	font-family: 'Ubuntu Mono', monospace;
+}
+	
